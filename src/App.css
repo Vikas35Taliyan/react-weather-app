@@ -7,16 +7,16 @@
 }
 
 body {
-  background-color: #008F7A;
+  background-color: gray;
   font-family: 'Lato', sans-serif;
 }
 
 .weather-box {
-  width: 600px;
+  width: 1000px;
   position: absolute;
   left: 50%;
   top: 50%;
-  /* background-color: #845EC2; */
+  font-size: 1.5rem;
   transform: translate(-50%, -50%);
   box-shadow: 0px 20px 20px rgba(0, 0, 0, 0.5);
   text-align: center;
@@ -25,12 +25,14 @@ body {
 .weather-header h1 {
   color: white;
   margin: 15px;
+  font-size: 5rem;
 }
 
 .weather-input {
   border: none;
   outline: none;
   margin: 18px;
+  font-size: 20rem;
 }
 
 .weather-city{
@@ -42,7 +44,7 @@ body {
   display: flex;
   flex-direction: row;
   color: white;
-  margin: 10px;
+  margin: 70px;
 }
 
 .weather-column{
