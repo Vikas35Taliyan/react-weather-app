@@ -2,7 +2,7 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-# Live demo ![Netlify](https://react-weathers-appp.netlify.app/)
+# Live demo [Netlify](https://react-weathers-appp.netlify.app/)
 
 ## Available Scripts
 
