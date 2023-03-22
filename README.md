@@ -16,10 +16,7 @@ Users can search for the weather conditions of any city in the world by entering
 The app displays the current temperature, weather description, humidity, and wind speed of the searched city.
 The background image of the app changes dynamically based on the weather condition of the searched city.
 Users can toggle between Celsius and Fahrenheit temperature units.
-### `npm test`
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
 
 ### Technologies Used
 
